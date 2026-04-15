@@ -152,6 +152,8 @@ uvicorn main:app --reload
 ├── LICENSE                    # 开源许可证
 └── README.md                  # 项目说明
 ```
+## 效果图
+<img width="2773" height="1661" alt="image" src="https://github.com/user-attachments/assets/b9b3999e-ae7b-4a41-8c9e-cdbcdbc4a66e" />
 
 ## 故障排除
 
