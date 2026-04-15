@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>张雪峰智能体客服 - 高考志愿填报</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Noto+Sans+SC:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style-new.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-pattern"></div>
+
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="logo-section">
+                    <div class="avatar">
+                        <img src="images/avatar.png" alt="张雪峰">
+                    </div>
+                    <div class="brand-text">
+                        <h1>“雪峰”</h1>
+                        <p>一直都在</p>
+                    </div>
+                </div>
+                <div class="header-tag">
+                    在线服务中
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <section class="hero-section">
+                <h2>让每个家庭都有明智的选择</h2>
+                <p>基于真实数据与专业经验，为你提供透明、务实的择校与专业选择建议</p>
+            </section>
+
+            <section class="chat-container">
+                <div class="chat-header">
+                    <div class="chat-header-content">
+                        <div class="avatar">
+                            <img src="images/logo.svg" alt="张雪峰智能体">
+                        </div>
+                        <div class="chat-header-info">
+                            <h3>张雪峰升学规划智能体</h3>
+                            <p>高考志愿填报 · 专业选择咨询</p>
+                        </div>
+                        <div class="chat-status">
+                            <span class="status-dot"></span>
+                            <span>在线</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chat-messages" id="chatMessages">
+                    <div class="message ai">
+                        <div class="message-content">
+                            <div class="message-label">张雪峰老师</div>
+                            <div class="message-text">高考志愿填报，选对了路比瞎努力重要。我看数据说话，就业、薪资、录取线，这些才是实在的。来，先告诉我，你是学生本人还是家长？</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 结束对话确认弹窗 -->
+                <div class="end-chat-modal" id="endChatModal" style="display: none;">
+                    <div class="modal-content">
+                        <p>是否要结束当前对话？</p>
+                        <div class="modal-buttons">
+                            <button class="btn-cancel" onclick="closeEndChatModal()">取消</button>
+                            <button class="btn-confirm" onclick="confirmEndChat()">结束对话</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="quick-questions">
+                    <div class="quick-questions-title">快速提问：</div>
+                    <div class="quick-questions-container">
+                        <div class="quick-questions-scroll" id="quickQuestionsScroll">
+                            <!-- 第一组 -->
+                            <button class="quick-question">计算机专业怎么样？</button>
+                            <button class="quick-question">这个分数能上什么学校？</button>
+                            <button class="quick-question">理科女生选什么专业好？</button>
+                            <button class="quick-question">什么专业就业前景好？</button>
+                            <button class="quick-question">如何选择城市和学校？</button>
+                            <button class="quick-question">文科男生适合什么专业？</button>
+                            <button class="quick-question">二本院校有哪些好专业？</button>
+                            <button class="quick-question">热门专业的就业情况如何？</button>
+                            <button class="quick-question">如何平衡兴趣和就业？</button>
+                            <button class="quick-question">考研还是直接就业？</button>
+                            <!-- 第二组（复制实现无缝滚动） -->
+                            <button class="quick-question">计算机专业怎么样？</button>
+                            <button class="quick-question">这个分数能上什么学校？</button>
+                            <button class="quick-question">理科女生选什么专业好？</button>
+                            <button class="quick-question">什么专业就业前景好？</button>
+                            <button class="quick-question">如何选择城市和学校？</button>
+                            <button class="quick-question">文科男生适合什么专业？</button>
+                            <button class="quick-question">二本院校有哪些好专业？</button>
+                            <button class="quick-question">热门专业的就业情况如何？</button>
+                            <button class="quick-question">如何平衡兴趣和就业？</button>
+                            <button class="quick-question">考研还是直接就业？</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chat-input">
+                    <div class="input-wrapper">
+                        <textarea class="input-field" id="messageInput" placeholder="输入你的问题，比如：我考了550分，想学计算机，有什么建议？" rows="1"></textarea>
+                        <button class="send-btn" onclick="sendMessage()">
+                            发送
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            <section class="features-section">
+                <div class="feature-card">
+                    <div class="feature-icon">📊</div>
+                    <h4>数据驱动</h4>
+                    <p>基于历年录取数据、就业薪资、发展前景等多维度分析，让选择有据可依</p>
+                </div>
+
+                <div class="feature-card">
+                    <div class="feature-icon">🎯</div>
+                    <h4>精准匹配</h4>
+                    <p>结合个人分数、兴趣、性格特点，推荐最适合的专业和院校组合</p>
+                </div>
+
+                <div class="feature-card">
+                    <div class="feature-icon">💬</div>
+                    <h4>真诚对话</h4>
+                    <p>不说虚话，不避敏感话题，用最直白的语言讲透每个专业的真实情况</p>
+                </div>
+
+                <div class="feature-card">
+                    <div class="feature-icon">🔍</div>
+                    <h4>风险预警</h4>
+                    <p>及时提示专业陷阱、就业风险，帮你避开那些听起来好听但实际坑人的选择</p>
+                </div>
+
+                <div class="feature-card">
+                    <div class="feature-icon">⚡</div>
+                    <h4>实时响应</h4>
+                    <p>采用流式输出技术，让回复即时显示，减少等待时间，提升交互体验</p>
+                </div>
+
+                <div class="feature-card">
+                    <div class="feature-icon">🎓</div>
+                    <h4>专业指导</h4>
+                    <p>结合张雪峰老师的专业经验，为你提供最实用的志愿填报建议</p>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>© 2026 张雪峰智能体 · 用数据和真话，让每个家庭做出明智的选择</p>
+        </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

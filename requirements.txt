@@ -1,0 +1,13 @@
+# Web 框架
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# 数据验证
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# 环境变量管理
+python-dotenv>=1.0.0
+
+# 模型 API 客户端
+dashscope>=1.14.0

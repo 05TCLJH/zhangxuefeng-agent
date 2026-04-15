@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- 背景 - 深蓝黑 -->
+  <rect width="200" height="200" rx="20" fill="#0a0f1a"/>
+  
+  <!-- 主图形 - 更大的山峰 -->
+  <g transform="translate(100, 70)">
+    <!-- 左侧山峰 -->
+    <path d="M-65 70 L-32 -15 L0 70" fill="none" stroke="#0ea5e9" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- 右侧山峰 -->
+    <path d="M0 70 L32 -15 L65 70" fill="none" stroke="#06b6d4" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- 顶部交汇点 - 象征雪峰 -->
+    <circle cx="0" cy="-15" r="18" fill="#10b981"/>
+    
+    <!-- 底部横线 - 稳重基础 -->
+    <line x1="-70" y1="75" x2="70" y2="75" stroke="#0ea5e9" stroke-width="10" stroke-linecap="round" opacity="0.6"/>
+  </g>
+  
+  <!-- 品牌文字 - 更大更清晰 -->
+  <text x="100" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#f9fafb">雪峰智选</text>
+</svg>

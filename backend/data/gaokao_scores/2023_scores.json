@@ -1,0 +1,353 @@
+{
+  "year": 2023,
+  "description": "2023年全国31省高考一本/二本线",
+  "batch_explanation": {
+    "old_gaokao": "一本=本科一批、二本=本科二批",
+    "new_gaokao_3_1_2": "特控线=原一本、本科线=原二本",
+    "new_gaokao_3_3": "不分文理，以特控线/一段线为参考"
+  },
+  "provinces": [
+    {
+      "name": "北京",
+      "first_batch_line": 527,
+      "second_batch_line": 448,
+      "notes": "不分文理"
+    },
+    {
+      "name": "天津",
+      "first_batch_line": 563,
+      "second_batch_line": 472,
+      "notes": "不分文理"
+    },
+    {
+      "name": "河北",
+      "first_batch_line": {
+        "history": 495,
+        "physics": 492
+      },
+      "second_batch_line": {
+        "history": 430,
+        "physics": 439
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "山西",
+      "first_batch_line": {
+        "arts": 490,
+        "science": 480
+      },
+      "second_batch_line": {
+        "arts": 418,
+        "science": 396
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "内蒙古",
+      "first_batch_line": {
+        "arts": 468,
+        "science": 434
+      },
+      "second_batch_line": {
+        "arts": 379,
+        "science": 333
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "辽宁",
+      "first_batch_line": {
+        "history": 495,
+        "physics": 494
+      },
+      "second_batch_line": {
+        "history": 404,
+        "physics": 360
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "吉林",
+      "first_batch_line": {
+        "arts": 485,
+        "science": 463
+      },
+      "second_batch_line": {
+        "arts": 341,
+        "science": 292
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "黑龙江",
+      "first_batch_line": {
+        "arts": 430,
+        "science": 408
+      },
+      "second_batch_line": {
+        "arts": 341,
+        "science": 287
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "上海",
+      "first_batch_line": 504,
+      "second_batch_line": 405,
+      "notes": "3+3，满分660"
+    },
+    {
+      "name": "江苏",
+      "first_batch_line": {
+        "history": 527,
+        "physics": 511
+      },
+      "second_batch_line": {
+        "history": 426,
+        "physics": 417
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "浙江",
+      "first_batch_line": 594,
+      "second_batch_line": {
+        "first_segment": 488,
+        "second_segment": 274
+      },
+      "notes": "3+3，一段=本科"
+    },
+    {
+      "name": "安徽",
+      "first_batch_line": {
+        "arts": 533,
+        "science": 482
+      },
+      "second_batch_line": {
+        "arts": 495,
+        "science": 432
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "福建",
+      "first_batch_line": {
+        "history": 531,
+        "physics": 526
+      },
+      "second_batch_line": {
+        "history": 443,
+        "physics": 428
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "江西",
+      "first_batch_line": {
+        "arts": 533,
+        "science": 518
+      },
+      "second_batch_line": {
+        "arts": 472,
+        "science": 445
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "山东",
+      "first_batch_line": 520,
+      "second_batch_line": {
+        "first_segment": 443,
+        "second_segment": 150
+      },
+      "notes": "3+3，一段=本科"
+    },
+    {
+      "name": "河南",
+      "first_batch_line": {
+        "arts": 547,
+        "science": 514
+      },
+      "second_batch_line": {
+        "arts": 465,
+        "science": 409
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "湖北",
+      "first_batch_line": {
+        "history": 527,
+        "physics": 525
+      },
+      "second_batch_line": {
+        "history": 426,
+        "physics": 424
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "湖南",
+      "first_batch_line": {
+        "history": 482,
+        "physics": 477
+      },
+      "second_batch_line": {
+        "history": 428,
+        "physics": 415
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "广东",
+      "first_batch_line": {
+        "history": 540,
+        "physics": 539
+      },
+      "second_batch_line": {
+        "history": 433,
+        "physics": 439
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "广西",
+      "first_batch_line": {
+        "arts": 528,
+        "science": 475
+      },
+      "second_batch_line": {
+        "arts": 428,
+        "science": 347
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "海南",
+      "first_batch_line": 569,
+      "second_batch_line": 483,
+      "notes": "3+3，满分900"
+    },
+    {
+      "name": "重庆",
+      "first_batch_line": {
+        "history": 480,
+        "physics": 468
+      },
+      "second_batch_line": {
+        "history": 407,
+        "physics": 406
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "四川",
+      "first_batch_line": {
+        "arts": 527,
+        "science": 520
+      },
+      "second_batch_line": {
+        "arts": 458,
+        "science": 433
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "贵州",
+      "first_batch_line": {
+        "arts": 545,
+        "science": 459
+      },
+      "second_batch_line": {
+        "arts": 477,
+        "science": 371
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "云南",
+      "first_batch_line": {
+        "arts": 530,
+        "science": 485
+      },
+      "second_batch_line": {
+        "arts": 465,
+        "science": 405
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "西藏",
+      "first_batch_line": {
+        "arts": 400,
+        "science": 400
+      },
+      "second_batch_line": {
+        "arts": 315,
+        "science": 310
+      },
+      "notes": "分A/B类"
+    },
+    {
+      "name": "陕西",
+      "first_batch_line": {
+        "arts": 489,
+        "science": 443
+      },
+      "second_batch_line": {
+        "arts": 403,
+        "science": 336
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "甘肃",
+      "first_batch_line": {
+        "arts": 488,
+        "science": 433
+      },
+      "second_batch_line": {
+        "arts": 420,
+        "science": 337
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "青海",
+      "first_batch_line": {
+        "arts": 435,
+        "science": 381
+      },
+      "second_batch_line": {
+        "arts": 406,
+        "science": 330
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "宁夏",
+      "first_batch_line": {
+        "arts": 488,
+        "science": 397
+      },
+      "second_batch_line": {
+        "arts": 421,
+        "science": 340
+      },
+      "notes": "老高考"
+    },
+    {
+      "name": "新疆",
+      "first_batch_line": {
+        "arts": 458,
+        "science": 396
+      },
+      "second_batch_line": {
+        "arts": 354,
+        "science": 285
+      },
+      "notes": "老高考"
+    }
+  ]
+}

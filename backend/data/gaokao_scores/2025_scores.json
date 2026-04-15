@@ -1,0 +1,353 @@
+{
+  "year": 2025,
+  "description": "2025年全国31省高考特控/本科线",
+  "batch_explanation": {
+    "old_gaokao": "一本=本科一批、二本=本科二批",
+    "new_gaokao_3_1_2": "特控线=原一本、本科线=原二本",
+    "new_gaokao_3_3": "不分文理，以特控线/一段线为参考"
+  },
+  "provinces": [
+    {
+      "name": "北京",
+      "special_control_line": 519,
+      "undergraduate_line": 430,
+      "notes": "不分文理"
+    },
+    {
+      "name": "天津",
+      "special_control_line": 562,
+      "undergraduate_line": 476,
+      "notes": "不分文理"
+    },
+    {
+      "name": "河北",
+      "special_control_line": {
+        "history": 527,
+        "physics": 499
+      },
+      "undergraduate_line": {
+        "history": 477,
+        "physics": 459
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "山西",
+      "special_control_line": {
+        "history": 534,
+        "physics": 507
+      },
+      "undergraduate_line": {
+        "history": 443,
+        "physics": 419
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "内蒙古",
+      "special_control_line": {
+        "history": 523,
+        "physics": 487
+      },
+      "undergraduate_line": {
+        "history": 418,
+        "physics": 375
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "辽宁",
+      "special_control_line": {
+        "history": 522,
+        "physics": 515
+      },
+      "undergraduate_line": {
+        "history": 437,
+        "physics": 367
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "吉林",
+      "special_control_line": {
+        "history": 493,
+        "physics": 479
+      },
+      "undergraduate_line": {
+        "history": 384,
+        "physics": 340
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "黑龙江",
+      "special_control_line": {
+        "history": 480,
+        "physics": 472
+      },
+      "undergraduate_line": {
+        "history": 405,
+        "physics": 360
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "上海",
+      "special_control_line": 505,
+      "undergraduate_line": 402,
+      "notes": "3+3，满分660"
+    },
+    {
+      "name": "江苏",
+      "special_control_line": {
+        "history": 537,
+        "physics": 519
+      },
+      "undergraduate_line": {
+        "history": 482,
+        "physics": 463
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "浙江",
+      "special_control_line": 592,
+      "undergraduate_line": {
+        "first_segment": 490,
+        "second_segment": 268
+      },
+      "notes": "3+3，一段=本科"
+    },
+    {
+      "name": "安徽",
+      "special_control_line": {
+        "history": 514,
+        "physics": 514
+      },
+      "undergraduate_line": {
+        "history": 477,
+        "physics": 461
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "福建",
+      "special_control_line": {
+        "history": 531,
+        "physics": 520
+      },
+      "undergraduate_line": {
+        "history": 450,
+        "physics": 441
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "江西",
+      "special_control_line": {
+        "history": 539,
+        "physics": 505
+      },
+      "undergraduate_line": {
+        "history": 486,
+        "physics": 429
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "山东",
+      "special_control_line": 521,
+      "undergraduate_line": {
+        "first_segment": 441,
+        "second_segment": 150
+      },
+      "notes": "3+3，一段=本科"
+    },
+    {
+      "name": "河南",
+      "special_control_line": {
+        "history": 552,
+        "physics": 535
+      },
+      "undergraduate_line": {
+        "history": 471,
+        "physics": 427
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "湖北",
+      "special_control_line": {
+        "history": 536,
+        "physics": 516
+      },
+      "undergraduate_line": {
+        "history": 442,
+        "physics": 426
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "湖南",
+      "special_control_line": {
+        "history": 503,
+        "physics": 476
+      },
+      "undergraduate_line": {
+        "history": 446,
+        "physics": 405
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "广东",
+      "special_control_line": {
+        "history": 557,
+        "physics": 534
+      },
+      "undergraduate_line": {
+        "history": 464,
+        "physics": 436
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "广西",
+      "special_control_line": {
+        "history": 518,
+        "physics": 495
+      },
+      "undergraduate_line": {
+        "history": 402,
+        "physics": 370
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "海南",
+      "special_control_line": 568,
+      "undergraduate_line": 480,
+      "notes": "3+3，满分900"
+    },
+    {
+      "name": "重庆",
+      "special_control_line": {
+        "history": 515,
+        "physics": 498
+      },
+      "undergraduate_line": {
+        "history": 438,
+        "physics": 425
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "四川",
+      "special_control_line": {
+        "history": 533,
+        "physics": 518
+      },
+      "undergraduate_line": {
+        "history": 467,
+        "physics": 438
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "贵州",
+      "special_control_line": {
+        "history": 517,
+        "physics": 483
+      },
+      "undergraduate_line": {
+        "history": 458,
+        "physics": 387
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "云南",
+      "special_control_line": {
+        "history": 535,
+        "physics": 495
+      },
+      "undergraduate_line": {
+        "history": 465,
+        "physics": 430
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "西藏",
+      "special_control_line": {
+        "history": 410,
+        "physics": 400
+      },
+      "undergraduate_line": {
+        "history": 315,
+        "physics": 305
+      },
+      "notes": "分A/B类"
+    },
+    {
+      "name": "陕西",
+      "special_control_line": {
+        "history": 497,
+        "physics": 473
+      },
+      "undergraduate_line": {
+        "history": 414,
+        "physics": 394
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "甘肃",
+      "special_control_line": {
+        "history": 500,
+        "physics": 475
+      },
+      "undergraduate_line": {
+        "history": 412,
+        "physics": 374
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "青海",
+      "special_control_line": {
+        "history": 450,
+        "physics": 420
+      },
+      "undergraduate_line": {
+        "history": 405,
+        "physics": 350
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "宁夏",
+      "special_control_line": {
+        "history": 482,
+        "physics": 441
+      },
+      "undergraduate_line": {
+        "history": 404,
+        "physics": 372
+      },
+      "notes": "3+1+2"
+    },
+    {
+      "name": "新疆",
+      "special_control_line": {
+        "history": 451,
+        "physics": 421
+      },
+      "undergraduate_line": {
+        "history": 330,
+        "physics": 280
+      },
+      "notes": "3+1+2"
+    }
+  ]
+}

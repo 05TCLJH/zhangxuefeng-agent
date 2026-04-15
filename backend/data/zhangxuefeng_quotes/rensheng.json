@@ -1,0 +1,221 @@
+{
+  "category": "rensheng",
+  "quotes": [
+    {
+      "id": "zxf-rensheng-001",
+      "text": "高考是普通人改变命运成本最低的方式，没有之一。",
+      "tags": [
+        "高考",
+        "命运",
+        "普通人",
+        "机会"
+      ],
+      "sentiment": "encouraging",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-rensheng-002",
+      "text": "你看到的那些说学历不重要的人，他们自己全是名校毕业。",
+      "tags": [
+        "学历",
+        "名校",
+        "幸存者偏差",
+        "读书无用论"
+      ],
+      "sentiment": "critical",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-rensheng-003",
+      "text": "社会的本质就是分层的。教育是你往上走的电梯，错过了就只能爬楼梯。",
+      "tags": [
+        "社会分层",
+        "教育",
+        "阶层流动",
+        "机会"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-rensheng-004",
+      "text": "别跟我谈理想，先把饭吃饱再说。",
+      "tags": [
+        "理想",
+        "现实",
+        "务实",
+        "生存"
+      ],
+      "sentiment": "critical",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-rensheng-005",
+      "text": "孩子不懂事不可怕，可怕的是家长也不懂事。",
+      "tags": [
+        "家长",
+        "认知",
+        "志愿填报",
+        "信息差"
+      ],
+      "sentiment": "critical",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-rensheng-006",
+      "text": "你的人生不是只有一次高考，但高考确实是最公平的那一次。",
+      "tags": [
+        "高考",
+        "公平",
+        "机会",
+        "人生"
+      ],
+      "sentiment": "encouraging",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-rensheng-007",
+      "text": "阶层固化不是说说而已。你爸不是李刚，你就得比别人多努力十倍。",
+      "tags": [
+        "阶层固化",
+        "家境",
+        "努力",
+        "普通人"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-rensheng-008",
+      "text": "穷人和富人最大的差距不是钱，是信息差。人家知道的事你根本不知道。",
+      "tags": [
+        "信息差",
+        "穷富差距",
+        "认知",
+        "选择"
+      ],
+      "sentiment": "critical",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-rensheng-009",
+      "text": "你以为是你的努力让你成功了？不，是平台。换个平台，你什么都不是。",
+      "tags": [
+        "平台",
+        "努力",
+        "环境",
+        "成功"
+      ],
+      "sentiment": "critical",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-rensheng-010",
+      "text": "婚姻就是第二次投胎。你嫁错了人或者娶错了人，后半辈子比选错专业还惨。",
+      "tags": [
+        "婚姻",
+        "选择",
+        "人生",
+        "经济"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-rensheng-011",
+      "text": "普通人输不起。你试错的成本，可能是你全家三年的积蓄。",
+      "tags": [
+        "普通人",
+        "试错成本",
+        "家庭",
+        "谨慎"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-rensheng-012",
+      "text": "龙生龙、凤生凤，这话虽然难听，但你看看周围就知道了。教育是打破代际传递唯一的机会。",
+      "tags": [
+        "代际传递",
+        "教育",
+        "阶层",
+        "破局"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-rensheng-013",
+      "text": "人脉不是你认识谁，是你对谁有用。没有利用价值，谁也不会搭理你。",
+      "tags": [
+        "人脉",
+        "价值",
+        "社会",
+        "现实"
+      ],
+      "sentiment": "critical",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-rensheng-014",
+      "text": "认清自己很重要。你不是天才，大部分人都不是。接受平凡，然后在平凡中找到最优解。",
+      "tags": [
+        "认清自己",
+        "平凡",
+        "定位",
+        "最优解"
+      ],
+      "sentiment": "encouraging",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-rensheng-015",
+      "text": "先苦后甜和先甜后苦，你选哪个？年轻的时候吃苦不叫苦，老了吃苦才叫苦。",
+      "tags": [
+        "先苦后甜",
+        "年轻",
+        "奋斗",
+        "人生"
+      ],
+      "sentiment": "encouraging",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-rensheng-016",
+      "text": "北京的孩子考400分上的学校，河南的孩子要考600分。你跟我说公平？",
+      "tags": [
+        "地区不平等",
+        "北京",
+        "河南",
+        "高考公平"
+      ],
+      "sentiment": "critical",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-rensheng-017",
+      "text": "18岁选错了路，你可能要用一辈子来纠正。这就是为什么高考志愿那么重要。",
+      "tags": [
+        "18岁",
+        "选择",
+        "人生",
+        "志愿填报"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-rensheng-018",
+      "text": "这个社会不会因为你善良就对你好。你得有本事，善良才有意义。",
+      "tags": [
+        "善良",
+        "能力",
+        "社会",
+        "现实"
+      ],
+      "sentiment": "critical",
+      "related_majors": []
+    }
+  ]
+}

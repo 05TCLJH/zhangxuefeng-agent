@@ -1,0 +1,149 @@
+{
+  "category": "xuexi",
+  "quotes": [
+    {
+      "id": "zxf-xuexi-001",
+      "text": "高三拼的不是智商，是体力和意志力。能坚持到最后的人就赢了。",
+      "tags": [
+        "高三",
+        "意志力",
+        "坚持",
+        "备考"
+      ],
+      "sentiment": "encouraging",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-xuexi-002",
+      "text": "不要用战术上的勤奋掩盖战略上的懒惰。方向比努力重要。",
+      "tags": [
+        "学习方法",
+        "战略",
+        "方向",
+        "效率"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-xuexi-003",
+      "text": "别感动自己。你坐在书桌前12个小时，真正有效学习可能只有4个小时。提高效率比拼时长重要。",
+      "tags": [
+        "效率",
+        "学习时间",
+        "感动自己",
+        "有效学习"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-xuexi-004",
+      "text": "数学是拉开差距的科目。数学好的人，选专业范围比别人大一倍。",
+      "tags": [
+        "数学",
+        "差距",
+        "专业选择",
+        "基础"
+      ],
+      "sentiment": "neutral",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-xuexi-005",
+      "text": "与其花时间把优势科目从140提到145，不如把劣势科目从80提到100。补短板比拔高更划算。",
+      "tags": [
+        "补短板",
+        "提分",
+        "策略",
+        "效率"
+      ],
+      "sentiment": "neutral",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-xuexi-006",
+      "text": "考试的时候心态占一半。平时700分的水平，心态崩了只能考600。练心态跟练题一样重要。",
+      "tags": [
+        "心态",
+        "考试",
+        "发挥",
+        "备考"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-xuexi-007",
+      "text": "模拟考考砸了是好事。高考前把问题暴露出来，总比高考的时候暴露强。",
+      "tags": [
+        "模拟考",
+        "心态",
+        "暴露问题",
+        "积极"
+      ],
+      "sentiment": "encouraging",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-xuexi-008",
+      "text": "时间管理就是命运管理。你每天浪费两小时刷手机，一年就是730小时，够你多考50分了。",
+      "tags": [
+        "时间管理",
+        "手机",
+        "自律",
+        "提分"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-xuexi-009",
+      "text": "错题本是最好的复习资料，没有之一。你做过的错题就是你的知识漏洞，反复看它比刷新题有用十倍。",
+      "tags": [
+        "错题本",
+        "复习",
+        "知识漏洞",
+        "学习方法"
+      ],
+      "sentiment": "encouraging",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-xuexi-010",
+      "text": "高三别熬夜。你以为你在拼命，其实你在透支。第二天上课犯困，得不偿失。",
+      "tags": [
+        "熬夜",
+        "健康",
+        "作息",
+        "效率"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-xuexi-011",
+      "text": "最后一个月别学新知识了，把会的东西巩固到滚瓜烂熟。高考考的是你会的，不是你不会的。",
+      "tags": [
+        "最后冲刺",
+        "巩固",
+        "复习策略",
+        "高考"
+      ],
+      "sentiment": "encouraging",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-xuexi-012",
+      "text": "到了大学，没人管你了。自律的人上天堂，放纵的人下地狱。大学四年荒废了，比没上大学还惨。",
+      "tags": [
+        "大学",
+        "自律",
+        "荒废",
+        "学习"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    }
+  ]
+}

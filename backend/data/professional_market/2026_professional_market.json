@@ -1,0 +1,152 @@
+{
+  "year": 2026,
+  "description": "2026年最新全专业行情数据",
+  "data_source": "麦可思2025就业报告、人社部、智联/BOSS直聘2026春招、教育部预警",
+  "caliber": "本科应届生、一线城市税前月薪、毕业半年就业率、红/黄/绿牌评级",
+  "categories": {
+    "green": {
+      "name": "绿牌专业",
+      "description": "就业率≥93%、起薪高、缺口大、优先选",
+      "majors": [
+        {
+          "category": "计算机/AI/大数据",
+          "core_majors": ["人工智能", "软件工程", "计算机科学与技术", "数据科学", "网络空间安全"],
+          "employment_rate": "95%–98%",
+          "starting_salary": "12k–20k（算法/大模型18k–28k）",
+          "prospects": "AI大模型、云原生、网安、自动驾驶，缺口500万+，全行业适配",
+          "risks": "内卷、35岁门槛、持续学习"
+        },
+        {
+          "category": "集成电路/电子信息",
+          "core_majors": ["微电子", "集成电路设计", "电子信息", "通信工程"],
+          "employment_rate": "95%–97%",
+          "starting_salary": "13k–22k（芯片设计硕士25k–35k）",
+          "prospects": "国产替代、芯片/半导体，缺口30万+，华为/中芯/海思扩招",
+          "risks": "物理/电路门槛高、硕士更优"
+        },
+        {
+          "category": "电气/新能源/储能",
+          "core_majors": ["电气工程", "新能源科学", "储能科学", "能源动力"],
+          "employment_rate": "94%–97%",
+          "starting_salary": "9k–15k",
+          "prospects": "光伏、风电、储能、特高压、新能源汽车三电，电网/宁德/比亚迪，国企稳",
+          "risks": "部分倒班、传统能源收缩"
+        },
+        {
+          "category": "医学类（刚需）",
+          "core_majors": ["临床医学", "口腔医学", "医学影像", "麻醉", "护理"],
+          "employment_rate": "93%–99%（护理98%+）",
+          "starting_salary": "8k–18k（三甲临床/口腔15k–25k）",
+          "prospects": "老龄化、基层医疗，编制/福利全，终身职业",
+          "risks": "学制5+3、规培、执业证、压力大"
+        },
+        {
+          "category": "自动化/智能制造",
+          "core_majors": ["自动化", "机器人工程", "智能制造", "测控"],
+          "employment_rate": "94%–96%",
+          "starting_salary": "9k–14k",
+          "prospects": "工业4.0、工厂数字化、工业机器人，制造业升级刚需",
+          "risks": "传统机械饱和、需交叉AI"
+        }
+      ]
+    },
+    "yellow": {
+      "name": "黄牌专业",
+      "description": "就业率80%–92%、供需平衡、中等稳定、谨慎选",
+      "majors": [
+        {
+          "category": "财经类",
+          "core_majors": ["会计学", "财务管理", "审计", "金融学", "经济学"],
+          "employment_rate": "85%–90%",
+          "starting_salary": "7k–12k（四大/券商12k+）",
+          "prospects": "考公、银行、事务所、企业财务，持证（CPA/ACCA）溢价",
+          "risks": "饱和、内卷、基层岗多"
+        },
+        {
+          "category": "师范类",
+          "core_majors": ["汉语言", "数学", "英语", "物理", "教育学"],
+          "employment_rate": "88%–93%",
+          "starting_salary": "7k–10k（一线编制10k+）",
+          "prospects": "教师编、教培、公考，稳定寒暑假",
+          "risks": "考编竞争极激烈、双减影响"
+        },
+        {
+          "category": "法学",
+          "core_majors": ["法学"],
+          "employment_rate": "82%–85%",
+          "starting_salary": "7k–12k（红圈所15k+）",
+          "prospects": "法院/检察院、律师、法务，必须过法考",
+          "risks": "法考通过率低、本科难进优质岗"
+        },
+        {
+          "category": "土木/建筑/交通",
+          "core_majors": ["土木工程", "建筑学", "交通运输", "水利"],
+          "employment_rate": "82%–88%",
+          "starting_salary": "7k–10k",
+          "prospects": "新基建（地铁/高铁/水利）、央企为主",
+          "risks": "传统地产下行、工地辛苦、转行率高"
+        },
+        {
+          "category": "机械类",
+          "core_majors": ["机械设计", "车辆工程（新能源）", "材料成型"],
+          "employment_rate": "85%–90%",
+          "starting_salary": "7k–10k",
+          "prospects": "新能源汽车、高端装备、智能制造",
+          "risks": "传统机械饱和、需转型AI/自动化"
+        },
+        {
+          "category": "管理类",
+          "core_majors": ["人力资源", "行政管理", "物流管理", "工程管理"],
+          "employment_rate": "78%–85%",
+          "starting_salary": "6k–9k",
+          "prospects": "企业行政、人事、运营，考公",
+          "risks": "理论空、门槛低、竞争大"
+        }
+      ]
+    },
+    "red": {
+      "name": "红牌专业",
+      "description": "就业率＜75%、饱和/低薪、转行率高、尽量避开",
+      "majors": [
+        {
+          "category": "生化环材（天坑）",
+          "core_majors": ["生物科学", "生物技术", "环境工程", "材料", "化学工程"],
+          "employment_rate": "55%–70%",
+          "starting_salary": "5k–8k",
+          "status": "本科对口少、研发要硕博、工厂/检测为主、转行70%+",
+          "exceptions": "硕博+新能源/生物医药/半导体材料，薪资逆袭"
+        },
+        {
+          "category": "文科冷门",
+          "core_majors": ["历史学", "哲学", "社会学", "社会工作", "应用心理学"],
+          "employment_rate": "50%–65%",
+          "starting_salary": "5k–7k",
+          "status": "岗位极少、以考公/考研为主、企业需求有限",
+          "exceptions": "名校+硕博+体制内，尚可"
+        },
+        {
+          "category": "艺术类（AI冲击）",
+          "core_majors": ["美术", "绘画", "音乐", "播音", "编导", "视觉传达"],
+          "employment_rate": "45%–60%",
+          "starting_salary": "5k–8k",
+          "status": "AI生成冲击、freelance为主、头部高薪、尾部低薪",
+          "exceptions": "顶尖院校+技能专精（UI/游戏美术），有机会"
+        },
+        {
+          "category": "传统文科饱和",
+          "core_majors": ["汉语言（非师范）", "新闻学", "广告学", "公共事业管理"],
+          "employment_rate": "65%–75%",
+          "starting_salary": "6k–8k",
+          "status": "文职内卷、可替代性强、薪资天花板低",
+          "exceptions": "新媒体/内容运营、考公，有出路"
+        }
+      ]
+    }
+  },
+  "key_supplements": [
+    "新质生产力红利：AI、芯片、新能源、低空经济、生物医药，是当前唯一持续扩招赛道，复合型（AI+专业）最吃香",
+    "学历通胀：双非本科整体就业率约81.5%，985/211约90%；红牌专业必须读研/考证才有出路",
+    "地域差异：一线起薪比二线高20%–25%，二线比三四线高15%–20%",
+    "江西本地适配：江西2024起新高考（3+1+2），选科物理+化学，优先冲计算机、电气、新能源、医学、集成电路，避开生化环材、纯文科"
+  ]
+}

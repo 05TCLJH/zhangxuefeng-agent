@@ -1,0 +1,238 @@
+{
+  "category": "jiuye",
+  "quotes": [
+    {
+      "id": "zxf-jiuye-001",
+      "text": "你以为你毕业能进银行当行长？你只能去银行卖理财产品。",
+      "tags": [
+        "金融",
+        "银行",
+        "就业现实",
+        "理想与现实"
+      ],
+      "sentiment": "humorous",
+      "related_majors": [
+        "金融学",
+        "经济学"
+      ]
+    },
+    {
+      "id": "zxf-jiuye-002",
+      "text": "什么是好工作？钱多、事少、离家近、稳定。但你最多只能占两个。",
+      "tags": [
+        "好工作",
+        "标准",
+        "现实",
+        "取舍"
+      ],
+      "sentiment": "neutral",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-jiuye-003",
+      "text": "考公考编，是当代年轻人最大的确定性。别嫌弃体制内，等你35岁被裁员就知道了。",
+      "tags": [
+        "考公",
+        "编制",
+        "体制内",
+        "35岁",
+        "裁员"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-jiuye-004",
+      "text": "你学了四年管理学，毕业去管谁？人家凭什么让你管？",
+      "tags": [
+        "管理学",
+        "就业",
+        "本科",
+        "经验"
+      ],
+      "sentiment": "humorous",
+      "related_majors": [
+        "工商管理",
+        "行政管理",
+        "人力资源管理"
+      ]
+    },
+    {
+      "id": "zxf-jiuye-005",
+      "text": "互联网行业的高薪是用青春换的。你能拼到35岁，然后呢？",
+      "tags": [
+        "互联网",
+        "高薪",
+        "35岁",
+        "青春",
+        "年龄危机"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": [
+        "计算机科学与技术",
+        "软件工程"
+      ]
+    },
+    {
+      "id": "zxf-jiuye-006",
+      "text": "学技术的永远不会失业，因为社会永远需要能干活的人。",
+      "tags": [
+        "技术",
+        "就业",
+        "实用",
+        "保障"
+      ],
+      "sentiment": "encouraging",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-jiuye-007",
+      "text": "第一份工作非常重要，它决定了你在哪个圈子、接触什么人、未来往哪个方向走。",
+      "tags": [
+        "第一份工作",
+        "职业发展",
+        "圈子",
+        "方向"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-jiuye-008",
+      "text": "别光看平均薪资，你要看中位数。平均薪资是被马云拉上去的，跟你没关系。",
+      "tags": [
+        "薪资",
+        "中位数",
+        "统计陷阱",
+        "现实"
+      ],
+      "sentiment": "humorous",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-jiuye-009",
+      "text": "国企的好处不是工资高，是工资稳。你旱涝保收，过年有年终奖，退休有保障。",
+      "tags": [
+        "国企",
+        "稳定",
+        "福利",
+        "退休"
+      ],
+      "sentiment": "encouraging",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-jiuye-010",
+      "text": "私企给你画饼，国企给你发饼。你自己选。",
+      "tags": [
+        "私企",
+        "国企",
+        "画饼",
+        "选择"
+      ],
+      "sentiment": "humorous",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-jiuye-011",
+      "text": "自媒体不是职业，是副业。你见过几个自媒体做了十年还活得好的？",
+      "tags": [
+        "自媒体",
+        "自由职业",
+        "稳定性",
+        "风险"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-jiuye-012",
+      "text": "考研不是逃避就业的借口。你要想清楚，三年后就业环境会不会比现在更好？",
+      "tags": [
+        "考研",
+        "延迟就业",
+        "规划",
+        "就业"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-jiuye-013",
+      "text": "毕业去大城市还是回小城市？有能力去大城市，没关系回小城市。就这么简单。",
+      "tags": [
+        "大城市",
+        "小城市",
+        "就业选择",
+        "能力",
+        "关系"
+      ],
+      "sentiment": "neutral",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-jiuye-014",
+      "text": "行业有周期，你得在上升期进去，别在下降期接盘。房地产、教培就是前车之鉴。",
+      "tags": [
+        "行业周期",
+        "房地产",
+        "教培",
+        "择业"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-jiuye-015",
+      "text": "女生就业确实比男生难，这是现实。所以女生更要选对专业，别让专业再给你加一道坎。",
+      "tags": [
+        "性别",
+        "就业差距",
+        "女生",
+        "专业选择"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-jiuye-016",
+      "text": "起薪高不代表天花板高。有些行业起薪8000封顶一万，有些起薪5000但能到五万。看长远。",
+      "tags": [
+        "起薪",
+        "天花板",
+        "职业发展",
+        "长远"
+      ],
+      "sentiment": "neutral",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-jiuye-017",
+      "text": "海归也不值钱了。你花两百万出去留学，回来跟国内985抢同一个岗位，人家还嫌你不了解国内市场。",
+      "tags": [
+        "海归",
+        "留学",
+        "学历贬值",
+        "就业"
+      ],
+      "sentiment": "cautionary",
+      "related_majors": []
+    },
+    {
+      "id": "zxf-jiuye-018",
+      "text": "好的大专比烂的本科强。你学个护理、学个数控，出来就能上手干活，企业抢着要。",
+      "tags": [
+        "大专",
+        "职业教育",
+        "技术",
+        "就业",
+        "本科"
+      ],
+      "sentiment": "encouraging",
+      "related_majors": [
+        "护理学",
+        "机械设计制造"
+      ]
+    }
+  ]
+}
