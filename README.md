@@ -2,6 +2,9 @@
 
 基于大语言模型的张雪峰风格升学规划智能助手，提供高考志愿填报、专业选择等教育咨询服务。
 
+## 效果图
+<img width="2773" height="1661" alt="image" src="https://github.com/user-attachments/assets/b9b3999e-ae7b-4a41-8c9e-cdbcdbc4a66e" />
+
 ## 功能特点
 
 - 张雪峰风格的语言表达和思维方式
@@ -152,8 +155,6 @@ uvicorn main:app --reload
 ├── LICENSE                    # 开源许可证
 └── README.md                  # 项目说明
 ```
-## 效果图
-<img width="2773" height="1661" alt="image" src="https://github.com/user-attachments/assets/b9b3999e-ae7b-4a41-8c9e-cdbcdbc4a66e" />
 
 ## 故障排除
 
